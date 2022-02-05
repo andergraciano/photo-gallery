@@ -1,2 +1,2 @@
 # photo-gallery
-Atividade do bootcamp do Frontend Masters.
+<a href="photo-gallery/index.html">Clique aqui e acesse meu site.</a>
